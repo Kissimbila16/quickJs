@@ -1,2 +1,2 @@
 # quickJs
-minha framework ou linguagem 
+desevolvimento da minha framework
